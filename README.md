@@ -1,4 +1,4 @@
-# HTML-CSS_Wikipedia #
+# Wikipédia Clone #
  
 Projeto desenvolvido com o intuito de entregar o design mais próximo do site oficial do Wikipédia(https://pt.wikipedia.org).
 
